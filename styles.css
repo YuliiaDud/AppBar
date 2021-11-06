@@ -242,3 +242,6 @@ footer .primary-btn:hover .fa-telegram-plane{
 .main-slider{
     display: none;
 }
+.slick-slide{
+    margin-right: 10px;
+}
